@@ -1,1 +1,1 @@
-# hash-function
+# hash_ne_sup
